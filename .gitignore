@@ -1,0 +1,18 @@
+# Ignoring temporary file
+*~
+
+# Ignoring objects files
+*.o
+
+# Ignoring binary file
+my_rpg
+
+# Ignoring libmy.a
+lib/libmy.a
+lib/my/libmy.a
+
+# Ignoring valgrind
+vgcore*
+
+# Ignoring .vscode folder
+.vscode

@@ -1,0 +1,10 @@
+-TEXTS:
+HOW TO PLAY#960,50#120
+
+-BUTTONS:
+Commands#960,325#90
+Story#960,600#90
+Back#960,1020#60
+
+-SPRITES:
+./ressources/img/main_menu_background.jpg#0,0#0,0,1920,1080#0

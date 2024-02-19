@@ -1,0 +1,14 @@
+-TEXTS:
+STORY#960,50#120
+In this unfriendly world invaded by the demon lord Leviathan, you embody#960,400#30
+a traveler that as been summoned to defend the former beautiful landscapes of Deltora.#960,450#30
+Through your trip, you will encounter a lot of obstacles and many member of#960,500#30
+the Leviathan s army. You will have to defeat the three part of it s army to#960,550#30
+bring back the fourth artifacts together and be able to fight Leviathan.#960,600#30
+Good luck, and have fun !#960,650#30
+
+-BUTTONS:
+Back#960,1020#60
+
+-SPRITES:
+./ressources/img/main_menu_background.jpg#0,0#0,0,1920,1080#0

@@ -1,0 +1,17 @@
+-TEXTS:
+COMMANDS#960,50#120
+Z: UP#960,300#50
+Q: LEFT#960,350#50
+S: DOWN#960,400#50
+D: RIGHT#960,450#50
+I: Inventory#960,500#50
+C: Statistics#960,550#50
+Space: Attack#960,600#50
+Enter: Interact#960,650#50
+Esc: Menu#960,700#50
+
+-BUTTONS:
+Back#960,1020#60
+
+-SPRITES:
+./ressources/img/main_menu_background.jpg#0,0#0,0,1920,1080#0

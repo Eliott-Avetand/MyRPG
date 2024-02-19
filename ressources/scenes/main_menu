@@ -1,0 +1,14 @@
+-TEXTS:
+Traveled#960,50#120
+
+-BUTTONS:
+PLAY GAME#1250,440#80
+OPTIONS#1250,540#80
+QUIT GAME#1250,640#80
+HOW TO PLAY#1680,1020#60
+
+-SPRITES:
+./ressources/img/main_menu_background.jpg#0,0#0,0,1920,1080#0
+./ressources/img/eyes_resize.png#150,320#0,0,100,26#-15
+./ressources/img/eyes_resize.png#500,250#0,0,100,26#25
+./ressources/img/eyes_resize.png#520,600#0,0,100,26#10
